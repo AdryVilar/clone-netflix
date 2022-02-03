@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    font-size: 100%;
+    background-color: black;
+}
+.cabecalho{
+    padding: 0%;
+    display: flex;
+    flex-direction: row;
+    align-items: center; 
+}
+.imagem-netflix{
+    height: 140px;
+} 
+.entrar{
+    color: white;
+}
+.checkbox{
+    color: white;
+}
